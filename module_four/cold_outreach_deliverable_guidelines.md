@@ -5,7 +5,7 @@
   * "Robots & Pencils"
 
 * Person of contact and relevant postion 
-  * "Reid Sheppard, Reid Sheppard	VP Technology"
+  * "Reid Sheppard,	VP Technology"
 
 * Date of contact
   * "05/17/2017"
